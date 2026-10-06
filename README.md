@@ -10,5 +10,7 @@ software. Fa parte della categoria dei sistemi  **
 Un *Repository* contiene tutti i *file* del
 progetto e la cronologia delle revisioni di
 ogni file.
-è
+*è* possibile usare i repository per gestire il
+lavoro, tenere traccia delle modifiche,
+archiviare la cronologia
 
