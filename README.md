@@ -14,3 +14,15 @@ ogni file.
 lavoro, tenere traccia delle modifiche,
 archiviare la cronologia
 
+### Come creare un repository
+
+Se si ha installato il programma  `git` nel proprio *computer*, si può
+invocare il programma da riga di comando (*shell* o *prompt* o
+*terminale), si usa:
+
+```sh
+git init
+```
+Il comandocrea un *directory* (cartella) di nomr `.git` che conterrà
+tutte le informazioni sul progetto.
+
