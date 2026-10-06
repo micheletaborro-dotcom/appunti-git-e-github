@@ -1,9 +1,10 @@
-# appunti-git-e-github
+
+01879# appunti-git-e-github
 
 ## Cos'è GIT
 
 `Git` è uno strumento per la gestione dei progetti, in particolare dei progetti, in particolare dei progetti
-software. Fa parte della categoria dei sistemi  ** 
+software. Fa parte della categoria dei sistemi  **
 
 ## Cos'è un repository
 
